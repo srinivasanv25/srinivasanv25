@@ -1,10 +1,10 @@
 # Srinivasan Venkatesh
 
-Product Manager turning AI into trustworthy shopping experiences — building the AI Shopping Assistant and its evals & guardrails framework at Fanatics.
+Seasoned Product Manager turning AI into trustworthy shopping experiences — building the AI Shopping Assistant and its evals & guardrails framework at Fanatics.
 
 ## About
 
-0-to-1 Product Manager with deep experience building products at the intersection of AI, eCommerce, and Trust & Safety. From fighting fraud at eBay to shipping AI products and enhancing digital experiences at Fanatics, he turns complex user and business problems into products that scale.
+0-to-1 Product Manager with deep experience building products at the intersection of AI, eCommerce, and Trust & Safety. From fighting fraud and building post-transaction experience flows at eBay to shipping AI products and enhancing digital experiences at Fanatics, he turns complex user and business problems into products that scale.
 
 ## Currently
 
